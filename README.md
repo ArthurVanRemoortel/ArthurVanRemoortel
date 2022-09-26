@@ -1,16 +1,35 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1> Welcome to my GitHub 👋 </h3>
 
-<!--
-**ArthurVanRemoortel/ArthurVanRemoortel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div id="header" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Arthur Van Remoortel and I'm a student of Applied Informatics at <a href="https://www.erasmushogeschool.be">Erasmushogeschool Brussel</a> and I'm interested in becoming a Software Engineer.
+
+I started programming when I was 14 years old in order to automate my accounting homework. Since then I learned many languages an technologies, but language of choice is Python.
+</div>
+
+<div id="header" align="center">
+  <h3>💻 Contact</h3>
+
+[![Gmail](https://img.shields.io/badge/arthurvanremoortel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurvanremoortel@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Arthur%20Van%20Remoortel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-van-remoortel-5465b2202/)
+
+</div>
+
+<div align="center">
+  <h3>🗂️ What I'm working on</h3>
+  <br>
+  <a href="https://github.com/ArthurVanRemoortel/EDSiteProject">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ArthurVanRemoortel&repo=EDSiteProject&show_icons=true&line_height=27&theme=nord&border_color=788FAB" alt="EDSiteProject" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>📊 Stats</h3>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVanRemoortel&hide=java,html,css&theme=nord&hide_border=false&border_color=788FAB&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurVanRemoortel&theme=nord&show_icons=true&hide_border=false&border_color=788FAB&count_private=True&hide_title=True" alt="My GitHub stats" />
+</div>
