@@ -25,6 +25,10 @@ I started programming when I was 14 years old in order to automate my accounting
   <a href="https://github.com/ArthurVanRemoortel/EDSiteProject">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ArthurVanRemoortel&repo=EDSiteProject&show_icons=true&line_height=27&theme=nord&border_color=788FAB" alt="EDSiteProject" />
   </a>
+  
+  <a href="https://github.com/ArthurVanRemoortel/Sign-Language-Learning-Tool">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ArthurVanRemoortel&repo=Sign-Language-Learning-Tool&show_icons=true&line_height=27&theme=nord&border_color=788FAB" alt="Sign-Language-Learning-Tool" />
+  </a>
 </div>
 
 <div align="center">
