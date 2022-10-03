@@ -7,7 +7,7 @@
 
 My name is Arthur Van Remoortel and I'm a student of Applied Informatics at <a href="https://www.erasmushogeschool.be">Erasmushogeschool Brussel</a> and I'm interested in becoming a Software Engineer.
 
-I started programming when I was 14 years old in order to automate my accounting homework. Since then I learned many languages an technologies, but language of choice is Python.
+I started programming when I was 14 years old in order to automate my accounting homework. Since then I learned many languages and technologies, but language of choice is Python.
 </div>
 
 <div id="header" align="center">
