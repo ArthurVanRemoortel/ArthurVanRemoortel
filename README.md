@@ -34,7 +34,4 @@ I started programming when I was 14 years old in order to automate my accounting
   <h3>📊 Stats</h3>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVanRemoortel&theme=nord&hide_border=false&border_color=788FAB&layout=compact" />
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurVanRemoortel&theme=nord&show_icons=true&hide_border=false&border_color=788FAB&count_private=True&hide_title=True" alt="My GitHub stats" />
 </div>
