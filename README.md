@@ -7,7 +7,7 @@
 
 My name is Arthur Van Remoortel and I'm a student of Applied Informatics at <a href="https://www.erasmushogeschool.be">Erasmushogeschool Brussel</a> and I'm interested in becoming a Software Engineer.
 
-I started programming when I was 14 years old in order to automate my accounting homework. Since then I learned many languages and technologies, but language of choice is Python.
+I started programming when I was 14 years old in order to automate my accounting homework. Since then I learned many languages and technologies, but language my of choice is Python.
 </div>
 
 <div id="header" align="center">
@@ -22,9 +22,16 @@ I started programming when I was 14 years old in order to automate my accounting
 <div align="center">
   <h3>🗂️ What I'm working on</h3>
   <br>
+  <a href="https://github.com/ArthurVanRemoortel/SignVisionAI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ArthurVanRemoortel&repo=SignVisionAI&show_icons=true&line_height=27&theme=nord&border_color=788FAB" alt="Sign-Language-Learning-Tool" />
+  </a>
+  <br>
+  <br>
   <a href="https://github.com/ArthurVanRemoortel/Sign-Language-Learning-Tool">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ArthurVanRemoortel&repo=Sign-Language-Learning-Tool&show_icons=true&line_height=27&theme=nord&border_color=788FAB" alt="Sign-Language-Learning-Tool" />
   </a>
+  <br>
+  <br>
   <a href="https://github.com/ArthurVanRemoortel/EDSiteProject">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ArthurVanRemoortel&repo=EDSiteProject&show_icons=true&line_height=27&theme=nord&border_color=788FAB" alt="EDSiteProject" />
   </a>
